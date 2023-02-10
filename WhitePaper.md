@@ -17,14 +17,8 @@
 11. Команда (+Консультанты)
 12. Заключение (Call to Action)
 
+##Colors 
+'''#0088CC'''
+'''#303757'''
 
-Colors #0088CC #303757
-https://contenteam.ru/blog/belye-knigi/
-https://blog.calltouch.ru/white-paper-chto-eto-dlya-kakih-czelej-nuzhna-belaya-kniga-kak-pisat-oformlyat-i-prodvigat-vajt-pejper/
-https://shard-copywriting.ru/kak-napisat-whitepaper-ico/
-https://postium.ru/white-paper/
-https://merehead.com/ru/blog/how-to-write-white-paper/
-https://in-scale.ru/blog/white-paper-chto-eto-takoe-s-primerami/
-https://habr.com/ru/post/450244/
-https://rb.ru/opinion/takoiy-krasiviy-white-paper/
 
